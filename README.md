@@ -46,4 +46,3 @@ This project is a **User Management System** built using **React.js**. It enable
 - **Delete Users**: Click "Delete" to permanently remove a user from the system.
 - **Role Management**: Assign roles when adding or editing users to control access permissions.
 - **Data Persistence**: User and role data is stored in `localStorage`, so it remains even after refreshing the page.
-```
